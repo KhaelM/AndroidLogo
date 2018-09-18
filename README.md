@@ -1,0 +1,1 @@
+Simple android logo animation with only CSS
